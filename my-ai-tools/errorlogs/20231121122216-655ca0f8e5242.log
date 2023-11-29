@@ -1,0 +1,2 @@
+{"user_input":"g\u00f6r ett fl\u00f6desschema f\u00f6r basutredning p\u00e5 beroendemottagning"}
+{"gpt_error":"cURL error 28: Operation timed out after 30001 milliseconds with 0 bytes received (see https:\/\/curl.haxx.se\/libcurl\/c\/libcurl-errors.html) for https:\/\/api.openai.com\/v1\/chat\/completions"}

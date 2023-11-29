@@ -1,0 +1,2 @@
+{"user_input":"diagnostisk algoritm vid br\u00f6stsm\u00e4rta"}
+{"gpt_error":"cURL error 28: Operation timed out after 30000 milliseconds with 0 bytes received (see https:\/\/curl.haxx.se\/libcurl\/c\/libcurl-errors.html) for https:\/\/api.openai.com\/v1\/chat\/completions"}

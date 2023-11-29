@@ -1,0 +1,2 @@
+{"user_input":"G\u00f6r ett fl\u00f6desschema f\u00f6r mottagande p\u00e5 beroendemottagning, med arbetsf\u00f6rdelning mellan l\u00e4kare och sjuksk\u00f6terska och psykolog (olika f\u00e4rger)"}
+{"gpt_error":"cURL error 28: Operation timed out after 30000 milliseconds with 0 bytes received (see https:\/\/curl.haxx.se\/libcurl\/c\/libcurl-errors.html) for https:\/\/api.openai.com\/v1\/chat\/completions"}

@@ -1,0 +1,2 @@
+{"user_input":"Show a flowchart over the proven associations between psychological trauma, bone inflammation, schizophrenia and  allergies with etiology related to gut-microbes. the 4 entities don't have to be listed in this order and may or may not have intermediary steps. please be specific about the nature about the associations"}
+{"gpt_error":"cURL error 28: Operation timed out after 30001 milliseconds with 0 bytes received (see https:\/\/curl.haxx.se\/libcurl\/c\/libcurl-errors.html) for https:\/\/api.openai.com\/v1\/chat\/completions"}

@@ -1,0 +1,4 @@
+{"user_input":"a->b"}
+{"gpt_response":{"id":"chatcmpl-8MTGE0lRflxvRocVqVMa7uTDBQhTO","object":"chat.completion","created":1700366386,"model":"gpt-4-1106-preview","choices":[{"index":0,"message":{"role":"assistant","content":"```mermaid\nflowchart TD\n  A[Start] --> B{Decision Point}\n  B -.-> C[Option C]\n  B -- Yes --> D[Option D]\n  C --> E[END]\n  D --> E\n```"},"finish_reason":"stop"}],"usage":{"prompt_tokens":133,"completion_tokens":51,"total_tokens":184},"system_fingerprint":"fp_a24b4d720c"}}
+{"mermaid_syntax":"flowchart TD\n  A[Start] --> B{Decision Point}\n  B -.-> C[Option C]\n  B -- Yes --> D[Option D]\n  C --> E[END]\n  D --> E"}
+{"mermaid_cli_response":{"svgUrl":"http:\/\/135.181.158.154\/mermaid_images\/image_1700366387548.svg","mmdContent":"flowchart TD\n  A[Start] --> B{Decision Point}\n  B -.-> C[Option C]\n  B -- Yes --> D[Option D]\n  C --> E[END]\n  D --> E"}}

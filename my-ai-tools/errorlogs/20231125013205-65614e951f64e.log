@@ -1,0 +1,4 @@
+{"user_input":{"prompt":"a->b"}}
+{"gpt_response":{"id":"chatcmpl-8ObobSjtYJsUiCv2jlaa0D4awGS9v","object":"chat.completion","created":1700875925,"model":"gpt-4-1106-preview","choices":[{"index":0,"message":{"role":"assistant","content":"```mermaid\nflowchart LR\n    A[\/\"A\"\/] -->|Link| B[\/\"B\"\/]\n    style A fill:#f9a8d4, stroke:#333, stroke-width:2px\n    style B fill:#e0f2fe, stroke:#333, stroke-width:2px\n```"},"finish_reason":"stop"}],"usage":{"prompt_tokens":137,"completion_tokens":69,"total_tokens":206},"system_fingerprint":"fp_a24b4d720c"}}
+{"mermaid_syntax":"flowchart LR\n    A[\/\"A\"\/] -->|Link| B[\/\"B\"\/]\n    style A fill:#f9a8d4, stroke:#333, stroke-width:2px\n    style B fill:#e0f2fe, stroke:#333, stroke-width:2px"}
+{"error":"cURL error 7: Failed to connect to localhost port 3000 after 0 ms: Connection refused (see https:\/\/curl.haxx.se\/libcurl\/c\/libcurl-errors.html) for http:\/\/localhost:3000\/generate-mermaid"}

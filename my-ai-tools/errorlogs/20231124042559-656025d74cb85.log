@@ -1,0 +1,4 @@
+{"user_input":{"prompt":"a->b"}}
+{"gpt_response":{"id":"chatcmpl-8OI3L2b6YPNrWp8sOWqH0aKRUD7QE","object":"chat.completion","created":1700799959,"model":"gpt-4-1106-preview","choices":[{"index":0,"message":{"role":"assistant","content":"```mermaid\nflowchart LR\n  a -->|Link| b\n  style a fill:#f9d342,stroke:#333,stroke-width:2px\n  style b fill:#ff9f43,stroke:#333,stroke-width:2px\n```"},"finish_reason":"stop"}],"usage":{"prompt_tokens":137,"completion_tokens":57,"total_tokens":194},"system_fingerprint":"fp_a24b4d720c"}}
+{"mermaid_syntax":"flowchart LR\n  a -->|Link| b\n  style a fill:#f9d342,stroke:#333,stroke-width:2px\n  style b fill:#ff9f43,stroke:#333,stroke-width:2px"}
+{"mermaid_cli_response":"{\"svgUrl\":\"http:\/\/135.181.158.154\/mermaid_images\/image_1700799963155.svg\",\"mmdContent\":\"flowchart LR\\n  a -->|Link| b\\n  style a fill:#f9d342,stroke:#333,stroke-width:2px\\n  style b fill:#ff9f43,stroke:#333,stroke-width:2px\"}"}

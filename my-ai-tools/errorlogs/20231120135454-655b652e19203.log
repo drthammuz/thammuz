@@ -1,0 +1,2 @@
+{"user_input":"jag beh\u00f6ver tr\u00e4na p\u00e5 konflikthantering. det \u00e4r sv\u00e5rt att s\u00e4ga ifr\u00e5n till mamma och jag st\u00f6r mig p\u00e5 n\u00e4r kursare p\u00e5 l\u00e4karprogrammet inte g\u00f6r sin del i grupparbeten, hur ska jag g\u00f6ra?"}
+{"gpt_error":"cURL error 28: Operation timed out after 30001 milliseconds with 0 bytes received (see https:\/\/curl.haxx.se\/libcurl\/c\/libcurl-errors.html) for https:\/\/api.openai.com\/v1\/chat\/completions"}

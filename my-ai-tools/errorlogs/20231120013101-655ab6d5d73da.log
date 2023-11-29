@@ -1,0 +1,4 @@
+{"user_input":"a->b"}
+{"gpt_response":{"id":"chatcmpl-8MnPqBOQU9GynI4bJ1xop6LrMpDWT","object":"chat.completion","created":1700443862,"model":"gpt-4-1106-preview","choices":[{"index":0,"message":{"role":"assistant","content":"```mermaid\ngraph LR\n    A[a] -->|leads to| B[b]\n    style A fill:#f9c74f\n    style B fill:#90be6d\n```"},"finish_reason":"stop"}],"usage":{"prompt_tokens":137,"completion_tokens":41,"total_tokens":178},"system_fingerprint":"fp_a24b4d720c"}}
+{"mermaid_syntax":"graph LR\n    A[a] -->|leads to| B[b]\n    style A fill:#f9c74f\n    style B fill:#90be6d"}
+{"mermaid_cli_response":{"svgUrl":"http:\/\/135.181.158.154\/mermaid_images\/image_1700443863792.svg","mmdContent":"graph LR\n    A[a] -->|leads to| B[b]\n    style A fill:#f9c74f\n    style B fill:#90be6d"}}

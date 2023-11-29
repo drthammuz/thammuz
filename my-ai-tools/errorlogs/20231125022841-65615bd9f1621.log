@@ -1,0 +1,4 @@
+{"user_input":{"prompt":"a->b"}}
+{"gpt_response":{"id":"chatcmpl-8OchOHfYpeHi6DnNJSvIQPNTOIAds","object":"chat.completion","created":1700879322,"model":"gpt-4-1106-preview","choices":[{"index":0,"message":{"role":"assistant","content":"```mermaid\nflowchart LR\n  A[A] -->|connects to| B[B]\n  style A fill:#f9d342,stroke:#333,stroke-width:2px\n  style B fill:#b2e0f0,stroke:#333,stroke-width:2px\n```"},"finish_reason":"stop"}],"usage":{"prompt_tokens":137,"completion_tokens":64,"total_tokens":201},"system_fingerprint":"fp_a24b4d720c"}}
+{"mermaid_syntax":"flowchart LR\n  A[A] -->|connects to| B[B]\n  style A fill:#f9d342,stroke:#333,stroke-width:2px\n  style B fill:#b2e0f0,stroke:#333,stroke-width:2px"}
+{"error":"cURL error 35: error:0A00010B:SSL routines::wrong version number (see https:\/\/curl.haxx.se\/libcurl\/c\/libcurl-errors.html) for https:\/\/localhost:3000\/generate-mermaid"}

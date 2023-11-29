@@ -1,0 +1,70 @@
+
+> @ dev /var/paravel/my-ai-tools
+> vite
+
+
+  VITE v4.5.0  ready in 324 ms
+
+  ➜  Local:   http://127.0.0.1:5173/
+  ➜  Network: use --host to expose
+
+  LARAVEL v10.32.1  plugin v0.8.1
+
+  ➜  APP_URL: http://paravel.panacean.it
+5:23:27 PM [vite] page reload routes/api.php
+5:23:59 PM [vite] page reload routes/api.php
+5:40:34 PM [vite] page reload routes/auth.php
+5:47:22 PM [vite] page reload routes/api.php
+5:47:40 PM [vite] page reload routes/api.php
+6:43:20 PM [vite] page reload routes/web.php
+6:50:09 PM [vite] page reload routes/api.php
+6:51:36 PM [vite] page reload routes/api.php
+7:04:21 PM [vite] page reload routes/api.php
+7:06:05 PM [vite] page reload routes/api.php
+7:07:13 PM [vite] page reload routes/api.php
+8:21:14 PM [vite] page reload routes/api.php
+9:15:07 PM [vite] page reload routes/api.php
+9:15:07 PM [vite] page reload routes/api.php
+
+   INFO  Server running on [http://0.0.0.0:8000].  
+
+  Press Ctrl+C to stop the server
+
+
+> @ dev /var/paravel/my-ai-tools
+> vite
+
+Port 5173 is in use, trying another one...
+
+  VITE v4.5.0  ready in 346 ms
+
+  ➜  Local:   http://127.0.0.1:5174/
+  ➜  Network: use --host to expose
+
+  LARAVEL v10.32.1  plugin v0.8.1
+
+  ➜  APP_URL: http://paravel.panacean.it
+9:56:02 PM [vite] page reload routes/auth.php
+9:56:02 PM [vite] page reload routes/auth.php
+
+   WARN  Failed to listen on 0.0.0.0:8000 (reason: Address already in use).  
+
+
+> @ dev /var/paravel/my-ai-tools
+> vite
+
+
+  VITE v4.5.0  ready in 331 ms
+
+  ➜  Local:   http://127.0.0.1:5173/
+  ➜  Network: use --host to expose
+
+  LARAVEL v10.32.1  plugin v0.8.1
+
+  ➜  APP_URL: http://paravel.panacean.it
+10:18:57 PM [vite] .env changed, restarting server...
+10:18:57 PM [vite] server restarted.
+
+  LARAVEL v10.32.1  plugin v0.8.1
+
+  ➜  APP_URL: http://95.216.211.224

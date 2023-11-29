@@ -1,0 +1,32 @@
+{
+	"authHost": "https://laravel.panacean.it",
+	"authEndpoint": "/broadcasting/auth",
+	"clients": [],
+	"database": "redis",
+	"databaseConfig": {
+		"redis": {},
+		"sqlite": {
+			"databasePath": "/database/laravel-echo-server.sqlite"
+		}
+	},
+	"devMode": true,
+	"host": null,
+	"port": "6001",
+	"protocol": "https",
+	"socketio": {},
+	"secureOptions": 67108864,
+	"sslCertPath": "/etc/letsencrypt/live/laravel.panacean.it/fullchain.pem",
+	"sslKeyPath": "/etc/letsencrypt/live/laravel.panacean.it/privkey.pem",
+	"sslCertChainPath": "",
+	"sslPassphrase": "",
+	"subscribers": {
+		"http": true,
+		"redis": true
+	},
+	"apiOriginAllow": {
+		"allowCors": true,
+		"allowOrigin": "https://paravel.panacean.it",
+		"allowMethods": "POST, GET, OPTIONS, DELETE, PUT",
+		"allowHeaders": " (Origin, Content-Type, X-Auth-Token, X-Requested-With, Accept, Authorization, X-CSRF-TOKEN, X-Socket-"
+	}
+}

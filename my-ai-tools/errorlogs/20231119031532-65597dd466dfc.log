@@ -1,0 +1,4 @@
+{"user_input":"a->b"}
+{"gpt_response":{"id":"chatcmpl-8MSZQWbtC7SfrsTHHhp9nyg3Um548","object":"chat.completion","created":1700363732,"model":"gpt-4-1106-preview","choices":[{"index":0,"message":{"role":"assistant","content":"flowchart TB\n    start[Start]\n    a[A node]\n    b[B node]\n    End[END]\n\n    start --> a\n    a --> b\n    b --> End"},"finish_reason":"stop"}],"usage":{"prompt_tokens":423,"completion_tokens":38,"total_tokens":461},"system_fingerprint":"fp_a24b4d720c"}}
+{"mermaid_syntax":"flowchart TB\n    start[Start]\n    a[A node]\n    b[B node]\n    End[END]\n\n    start --> a\n    a --> b\n    b --> End"}
+{"gpt_error":"cURL error 52: Empty reply from server (see https:\/\/curl.haxx.se\/libcurl\/c\/libcurl-errors.html) for http:\/\/135.181.158.154:3000\/generate-mermaid"}
